@@ -1,10 +1,4 @@
 
-@font-face {
-    font-family: 'Cairo';
-    src: url('fonts/Cairo-VariableFont_slnt,wght.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 
 
 h1{
@@ -32,8 +26,10 @@ ol{
 
 body{
     background: #4c4b52;
-    font-family: 'Cairo', sans-serif;
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lalezar&display=swap" rel="stylesheet">
 
     font-size: 150%;
 }

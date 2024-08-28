@@ -1,9 +1,4 @@
 
-.lalezar-regular {
-  font-family: "Lalezar", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
 
 
 h1{
@@ -34,6 +29,16 @@ body{
 
 
     font-size: 150%;
+
+.lalezar-regular {
+  font-family: "Lalezar", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+  
 }
 a{
     text-decoration:none;

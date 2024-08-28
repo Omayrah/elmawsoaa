@@ -1,3 +1,12 @@
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('fonts/Cairo-VariableFont_slnt,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 h1{
 
 
@@ -23,7 +32,8 @@ ol{
 
 body{
     background: #4c4b52;
-    font:Cairo-VariableFont_slnt,wght.ttf;
+    font-family: 'Cairo', sans-serif;
+
 
     font-size: 150%;
 }

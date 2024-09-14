@@ -1,0 +1,75 @@
+
+
+
+h1{
+
+
+    background: #6d6d6d;
+    color: white;
+    
+
+    /* إصافة التنغيم للحواف*/
+    border-radius: 10px;
+}
+.title:hover{
+    background-color: #8b8b8b;
+}
+
+.title:active{
+    background-color: #a8a8a8;
+}
+
+ol{
+    background-color: rgb(179, 112, 255);
+    border-radius: 10px;
+}
+
+body{
+    background: #4c4b52;
+
+
+    font-size: 150%;
+
+.lalezar-regular {
+  font-family: "Lalezar", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+  
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+    
+}
+li:active{
+    background-color: #dc90ff;
+}
+
+li:hover{
+
+    background-color: #da82f0;
+}
+h2{
+    color: #fff;
+}
+
+
+.title{
+    font-size: 120%;
+}
+#wite-words{
+
+    color:white;
+}
+
+
+iframe{
+
+    border-radius:20px;
+}

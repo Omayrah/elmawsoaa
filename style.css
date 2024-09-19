@@ -73,6 +73,6 @@ iframe{
 
     border-radius:20px;
 }
-.no_content{
+#no_content{
     background: #00ffc3;
 }
